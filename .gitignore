@@ -22,10 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-grupo04sc/nbproject/private/
-grupo04sc/build/
-grupo04sc/nbbuild/
-grupo04sc/dist/
-grupo04sc/nbdist/
-grupo04sc/nbactions.xml
-grupo04sc/nb-configuration.xml
+grupo06sc/nbproject/private/
+grupo06sc/build/
+grupo06sc/nbbuild/
+grupo06sc/dist/
+grupo06sc/nbdist/
+grupo06sc/nbactions.xml
+grupo06sc/nb-configuration.xml
